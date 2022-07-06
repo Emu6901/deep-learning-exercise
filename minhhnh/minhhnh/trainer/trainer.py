@@ -3,7 +3,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 from sklearn.model_selection import StratifiedKFold
 from tqdm import tqdm
-from layers import NeuralNetwork
+from layers.neural_network import NeuralNetwork
 class Trainer:
     def __init__(self):
         pass
