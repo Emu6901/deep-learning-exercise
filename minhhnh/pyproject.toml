@@ -8,6 +8,10 @@ authors = ["Your Name <you@example.com>"]
 python = "^3.8"
 sklearn = "^0.0"
 pandas = "^1.4.3"
+tqdm = "^4.64.0"
+matplotlib = "^3.5.2"
+ipykernel = "^6.15.0"
+pandas-profiling = "^3.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
